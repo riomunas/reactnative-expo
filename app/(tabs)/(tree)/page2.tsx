@@ -1,10 +1,10 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-export default function Setting() {
+export default function Page2() {
   return (
     <View>
-      <Text>Setting</Text>
+      <Text>Page 2</Text>
     </View>
   )
 }
